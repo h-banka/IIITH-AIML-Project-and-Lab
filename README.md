@@ -1,1 +1,1 @@
-# IIITH-AIML-project-and-lab
+# IIITH-AIML-projects-and-labs
